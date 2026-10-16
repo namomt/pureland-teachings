@@ -15,7 +15,8 @@
   --rule: #ded8ca;
   --mark: #efe4d9;
   --serif: "Fayu GenRyu", "Noto Serif TC", "Source Han Serif TC", "Songti TC", "PMingLiU", serif;
-  font-size: 100%;
+  --reading-scale: 1;
+  font-size: calc(100% * var(--reading-scale));
   background: var(--paper);
   color: var(--ink);
 }
@@ -30,6 +31,32 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
+.reading-tools {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: #faf8f2f5;
+  border-bottom: 1px solid var(--rule);
+  font-family: system-ui, "Microsoft JhengHei", sans-serif;
+  font-size: 20px;
+}
+.reading-tools button {
+  min-width: 52px;
+  min-height: 44px;
+  padding: 4px 12px;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  color: var(--ink);
+  background: var(--paper);
+  font: inherit;
+  cursor: pointer;
+}
+.reading-tools button:focus-visible { outline: 2px solid var(--vermilion); outline-offset: 2px; }
+.reader { touch-action: pan-y; }
 ::selection { background: #ead4bf; color: #262923; }
 .reader {
   inline-size: min(100%, 56rem);
@@ -118,6 +145,7 @@ h2 {
   :root { --ink: #111; --heading: #111; --vermilion: #742d22; --rule: #958c7b; }
 }
 @media print {
+  .reading-tools { display: none; }
   :root { --paper: #fff; --ink: #000; --heading: #000; --vermilion: #000; }
   body { padding: 0; }
   .reader { inline-size: 100%; padding: 0; }
@@ -245,6 +273,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   </style>
 </head>
 <body>
+  <nav class="reading-tools" aria-label="整頁字級調整">
+    <button type="button" id="font-smaller" aria-label="縮小整頁字級">A−</button>
+    <button type="button" id="font-reset" aria-label="重設整頁字級">重設</button>
+    <button type="button" id="font-larger" aria-label="放大整頁字級">A＋</button>
+  </nav>
   <main class="reader">
     <header class="book-title">
       <h1>聖教集精要法語</h1>
@@ -1306,5 +1339,37 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       </li>
     </ol>
   </main>
+  <script>
+  (() => {
+    const root = document.documentElement;
+    let scale = 1;
+    const apply = value => {
+      scale = Math.max(1, Math.min(2.5, value));
+      root.style.setProperty('--reading-scale', scale.toFixed(3));
+      try { localStorage.setItem('pureland-reading-scale', String(scale)); } catch {}
+    };
+    try { const saved = Number(localStorage.getItem('pureland-reading-scale')); if (saved >= 1) apply(saved); } catch {}
+    document.getElementById('font-smaller').addEventListener('click', () => apply(scale - .1));
+    document.getElementById('font-larger').addEventListener('click', () => apply(scale + .1));
+    document.getElementById('font-reset').addEventListener('click', () => apply(1));
+    const reader = document.querySelector('.reader');
+    let gesture = null;
+    const distance = touches => Math.hypot(touches[0].clientX - touches[1].clientX, touches[0].clientY - touches[1].clientY);
+    reader.addEventListener('touchstart', event => {
+      if (event.touches.length === 2) {
+        gesture = { distance: distance(event.touches), scale };
+        event.preventDefault();
+      }
+    }, { passive: false });
+    reader.addEventListener('touchmove', event => {
+      if (gesture && event.touches.length === 2) {
+        event.preventDefault();
+        apply(gesture.scale * distance(event.touches) / gesture.distance);
+      }
+    }, { passive: false });
+    reader.addEventListener('touchend', () => { gesture = null; });
+    reader.addEventListener('touchcancel', () => { gesture = null; });
+  })();
+  </script>
 </body>
 </html>
