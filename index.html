@@ -31,31 +31,6 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
-.reading-tools {
-  position: sticky;
-  top: 0;
-  z-index: 2;
-  display: flex;
-  justify-content: center;
-  gap: 8px;
-  padding: 8px 12px;
-  background: #faf8f2f5;
-  border-bottom: 1px solid var(--rule);
-  font-family: system-ui, "Microsoft JhengHei", sans-serif;
-  font-size: 20px;
-}
-.reading-tools button {
-  min-width: 52px;
-  min-height: 44px;
-  padding: 4px 12px;
-  border: 1px solid var(--rule);
-  border-radius: 6px;
-  color: var(--ink);
-  background: var(--paper);
-  font: inherit;
-  cursor: pointer;
-}
-.reading-tools button:focus-visible { outline: 2px solid var(--vermilion); outline-offset: 2px; }
 .reader { touch-action: pan-y; }
 ::selection { background: #ead4bf; color: #262923; }
 .reader {
@@ -145,7 +120,6 @@ h2 {
   :root { --ink: #111; --heading: #111; --vermilion: #742d22; --rule: #958c7b; }
 }
 @media print {
-  .reading-tools { display: none; }
   :root { --paper: #fff; --ink: #000; --heading: #000; --vermilion: #000; }
   body { padding: 0; }
   .reader { inline-size: 100%; padding: 0; }
@@ -273,11 +247,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   </style>
 </head>
 <body>
-  <nav class="reading-tools" aria-label="整頁字級調整">
-    <button type="button" id="font-smaller" aria-label="縮小整頁字級">A−</button>
-    <button type="button" id="font-reset" aria-label="重設整頁字級">重設</button>
-    <button type="button" id="font-larger" aria-label="放大整頁字級">A＋</button>
-  </nav>
   <main class="reader">
     <header class="book-title">
       <h1>聖教集精要法語</h1>
@@ -1349,9 +1318,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
       try { localStorage.setItem('pureland-reading-scale', String(scale)); } catch {}
     };
     try { const saved = Number(localStorage.getItem('pureland-reading-scale')); if (saved >= 1) apply(saved); } catch {}
-    document.getElementById('font-smaller').addEventListener('click', () => apply(scale - .1));
-    document.getElementById('font-larger').addEventListener('click', () => apply(scale + .1));
-    document.getElementById('font-reset').addEventListener('click', () => apply(1));
     const reader = document.querySelector('.reader');
     let gesture = null;
     const distance = touches => Math.hypot(touches[0].clientX - touches[1].clientX, touches[0].clientY - touches[1].clientY);
