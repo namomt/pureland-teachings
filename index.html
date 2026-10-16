@@ -59,8 +59,10 @@ h1 {
   margin: 0;
 }
 .entry {
+  --entry-title-size: clamp(1.5rem, 1.25rem + 1vw, 2rem);
+  --serial-width: calc(var(--entry-title-size) * 1.3);
   display: grid;
-  grid-template-columns: 2.75rem minmax(0, 1fr);
+  grid-template-columns: var(--serial-width) minmax(0, 1fr);
   column-gap: clamp(.875rem, 2.6vw, 2rem);
   row-gap: 1.15rem;
   padding-block: clamp(1.8rem, 4.8vw, 3.1rem);
@@ -71,24 +73,25 @@ h1 {
   display: grid;
   place-items: center;
   align-self: start;
-  inline-size: 2.75rem;
-  min-block-size: 2.75rem;
+  inline-size: var(--serial-width);
+  block-size: calc(var(--entry-title-size) * 1.25);
+  margin-block-start: calc(.22rem + var(--entry-title-size) * .1);
   border: 1px solid var(--mark);
   border-radius: .25rem;
   color: var(--vermilion);
   font-family: var(--serif);
-  font-size: clamp(1.25rem, 1.125rem + .5vw, 1.375rem);
+  font-size: calc(var(--entry-title-size) * .65);
   font-weight: 700;
   font-variant-numeric: tabular-nums;
-  line-height: 1.5;
-  letter-spacing: .055em;
+  line-height: 1;
+  letter-spacing: 0;
 }
 h2 {
   min-inline-size: 0;
   margin: 0;
   padding-block: .22rem;
   color: var(--vermilion);
-  font-size: clamp(1.5rem, 1.25rem + 1vw, 2rem);
+  font-size: var(--entry-title-size);
   font-weight: 700;
   line-height: 1.45;
   letter-spacing: .045em;
@@ -125,9 +128,8 @@ h2 {
   .reader { inline-size: 100%; padding: 0; }
   .book-title { padding-block: 0 1.25rem; }
   h1 { font-size: 24pt; }
-  .entry { break-inside: avoid; padding-block: 1.2rem; }
+  .entry { --entry-title-size: 18pt; break-inside: avoid; padding-block: 1.2rem; }
   h2 { font-size: 18pt; }
-  .serial { font-size: 15pt; }
   .text { font-size: 15pt; }
 }
 /*
