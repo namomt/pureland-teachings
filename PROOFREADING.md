@@ -51,7 +51,7 @@
 | 37 | 平生業成 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
 | 38 | 一切凡夫皆得往生 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
 | 39 | 願往生者皆得往生 | 《觀經》言 → 《觀無量壽經》言 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
-| 40 | 克念願生亦得往生 | 克念願生　亦得往生　即入正定聚 → 剋念願生　亦得往生　即入正定聚 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
+| 40 | 剋念願生亦得往生 | 克念願生　亦得往生　即入正定聚 → 剋念願生　亦得往生　即入正定聚；克念願生亦得往生 → 剋念願生亦得往生 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
 | 41 | 九品無殊淄澠一味 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
 | 42 | 不實功德 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
 | 43 | 不如實修行 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
@@ -80,7 +80,7 @@
 | 66 | 佛勸三輩專念 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
 | 67 | 第十八願釋 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
 | 68 | 心光照攝專念眾生 | 彼佛心光　常照是人　攝護不舍 → 彼佛心光　常照是人　攝護不捨；總不論照攝余雜業行者 → 總不論照攝餘雜業行者 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
-| 69 | 造罪回心念佛願生 | 但回心念阿彌陀佛　願生淨土 → 但迴心念阿彌陀佛　願生淨土 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 69 | 造罪迴心念佛願生 | 但回心念阿彌陀佛　願生淨土 → 但迴心念阿彌陀佛　願生淨土；造罪回心念佛願生 → 造罪迴心念佛願生 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
 | 70 | 延年轉壽 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
 | 71 | 稱名入報 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
 | 72 | 無過念佛 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
