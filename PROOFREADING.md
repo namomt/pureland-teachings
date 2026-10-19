@@ -12,40 +12,40 @@
 
 | 編號 | 標題 | 查核結果與修正 | 原文來源 |
 | ---: | --- | --- | --- |
-| 01 | 第十八願 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 02 | 第十八願成就文 | 至心回向　願生彼國 → 至心迴向　願生彼國 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 03 | 第十八願成就偈 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 04 | 流通文・念佛大利 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 05 | 出世本懷 | 來以無盡大悲　矜哀三界 → 如來以無盡大悲　矜哀三界 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 06 | 無量壽佛最尊第一 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 07 | 超絕橫截 | 核對相符；升／昇異體保留 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 08 | 過火聞法 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 09 | 特留此經 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 10 | 稱名除五逆罪 | 如此愚人　以惡業故　應墮惡道　經曆多劫　受苦無窮 → 如此愚人　以惡業故　應墮惡道　經歷多劫　受苦無窮 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 11 | 稱名除罪成善男子 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 12 | 光明遍照唯攝念佛 | 念佛眾生攝取不舍 → 念佛眾生攝取不捨 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 13 | 芬陀利花 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 14 | 流通文・唯囑念佛 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
+| 01 | 第十八願 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 02 | 第十八願成就文 | 至心回向　願生彼國 → 至心迴向　願生彼國 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 03 | 第十八願成就偈 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 04 | 流通文・念佛大利 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 05 | 出世本懷 | 來以無盡大悲　矜哀三界 → 如來以無盡大悲　矜哀三界 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 06 | 無量壽佛最尊第一 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 07 | 超絕橫截 | 核對相符；升／昇異體保留 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 08 | 過火聞法 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 09 | 特留此經 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 10 | 稱名除五逆罪 | 如此愚人　以惡業故　應墮惡道　經曆多劫　受苦無窮 → 如此愚人　以惡業故　應墮惡道　經歷多劫　受苦無窮 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 11 | 稱名除罪成善男子 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 12 | 光明遍照唯攝念佛 | 念佛眾生攝取不舍 → 念佛眾生攝取不捨 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 13 | 芬陀利花 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 14 | 流通文・唯囑念佛 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
 | 15 | 往生正機 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&id=1&mid=72&name=ePub) |
-| 16 | 救度無條件 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 17 | 應心即現 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 18 | 三聖常來 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 19 | 往生方法念佛勝易 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 20 | 無有眾苦但受諸樂 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 21 | 光壽無量故名彌陀 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 22 | 諸上善人俱會一處 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 23 | 聞名得護念不退 | 若有善男子善女人 → 若有善男子　善女人；是諸善男子善女人 → 是諸善男子　善女人；皆得不退轉于阿耨多羅三藐三菩提 → 皆得不退轉於阿耨多羅三藐三菩提 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 24 | 願生得現生不退 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 25 | 難易二道判 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 26 | 本願稱名 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 27 | 稱名疾至不退 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 28 | 即入必定 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 29 | 信疑得失 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 30 | 歸命偈 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 31 | 本願偈 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 32 | 迴向偈 | 回向偈 → 迴向偈 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 33 | 如實稱名 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
-| 34 | 五念門 | 四者觀察門　五者回向門 → 四者觀察門　五者迴向門 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&id=73&mid=72&name=ePub) |
+| 16 | 救度無條件 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 17 | 應心即現 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 18 | 三聖常來 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 19 | 往生方法念佛勝易 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 20 | 無有眾苦但受諸樂 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 21 | 光壽無量故名彌陀 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 22 | 諸上善人俱會一處 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 23 | 聞名得護念不退 | 若有善男子善女人 → 若有善男子　善女人；是諸善男子善女人 → 是諸善男子　善女人；皆得不退轉于阿耨多羅三藐三菩提 → 皆得不退轉於阿耨多羅三藐三菩提 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 24 | 願生得現生不退 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 25 | 難易二道判 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 26 | 本願稱名 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 27 | 稱名疾至不退 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 28 | 即入必定 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 29 | 信疑得失 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 30 | 歸命偈 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 31 | 本願偈 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 32 | 迴向偈 | 回向偈 → 迴向偈 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 33 | 如實稱名 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
+| 34 | 五念門 | 四者觀察門　五者回向門 → 四者觀察門　五者迴向門 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=73&chk=c5c8cf7e-ab67-4798-b118-4a8b2acad9a7&name=ePub) |
 | 35 | 自他二力判 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
 | 36 | 他力本願釋 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
 | 37 | 平生業成 | 核對相符 | [plb.tw](https://plb.tw/tc/includes/GetFile.ashx?mid=72&id=1&chk=ae3662b5-a3ab-43b1-ae4e-9d3efd780b2a&name=ePub) |
